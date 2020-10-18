@@ -28,5 +28,5 @@ cartas = {"A" : 1, "2" : 2, "3" : 3, "4" : 4, "5" : 5, "6" : 6, "7" : 7, "8" : 8
 # cadastro de jogadores
 jogadores = []
 fichas = []
-cadastro_jogadores(jogadores)
+cadastro_jogadores(jogadores, fichas)
 
